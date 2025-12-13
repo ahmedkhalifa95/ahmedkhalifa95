@@ -37,6 +37,13 @@ I am passionate about **data analysis** and currently advancing my skills throug
 - Generated a 360-degree performance report across brands, package types, and SKUs over time.  
 - Practiced data preprocessing and detailed analysis to support management in understanding trends and performance
 
+### 🚚 Lieferspatz - Food Delivery Platform 
+- Developed a full-stack food delivery application using Python Flask and SQLite from initial concept to working prototype.
+- Designed the complete database architecture through detailed ER diagrams, modeling relationships between customers, restaurants, orders, and menu items.
+- Implemented user authentication, dynamic shopping cart, and real-time order tracking features.
+- Built responsive frontend interfaces using HTML and Flask templates based on UI mockups.
+- The ER diagram served as the blueprint for our database implementation, ensuring proper data normalization and integrity constraints.
+
 ---
 
 ## 🎯 Career Focus
